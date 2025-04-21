@@ -3,7 +3,6 @@ using DomeEventSystem.Domain.EventAggregate;
 using DomeEventSystem.Domain.UnitTests.TestUtils.Attendees;
 using DomeEventSystem.Domain.UnitTests.TestUtils.Events;
 using FluentAssertions;
-using DomeEventSystem.Domain.UnitTests.TestConstants;
 using DomeEventSystem.Domain.UnitTests.TestUtils.Services;
 
 

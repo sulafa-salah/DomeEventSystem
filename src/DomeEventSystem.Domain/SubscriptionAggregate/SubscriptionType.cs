@@ -17,3 +17,4 @@ namespace DomeEventSystem.Domain.SubscriptionAggregate
         {
         }
     }
+}

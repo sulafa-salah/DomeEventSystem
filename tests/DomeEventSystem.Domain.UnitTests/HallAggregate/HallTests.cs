@@ -1,6 +1,5 @@
 ﻿using DomeEventSystem.Domain.UnitTests.TestUtils.Events;
 using DomeEventSystem.Domain.UnitTests.TestUtils.Halls;
-using DomeEventSystem.Domain.UnitTests.TestConstants;
 using FluentAssertions;
 using DomeEventSystem.Domain.HallAggregate;
 using DomeEventSystem.Domain.UnitTests.TestUtils.Common;
